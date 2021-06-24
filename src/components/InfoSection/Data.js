@@ -12,53 +12,11 @@ export const homeObjOne = {
     description:'Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees.',
     buttonLabel:'Get Started',
     imgStart: false,
-<<<<<<< HEAD
-    img:require('../../images/svg-1.svg'),
-=======
     img: img1,
->>>>>>> 116bf591b366444b4305e50ab44bbe745d7c1c1d
     alt:'Car',
     dark:true,
     primary:true,
     darkText:false
-<<<<<<< HEAD
-};
-
-
-export const homeObjTwo= {
-    id:'discover',
-    lightBg:true,
-    lightText:false,
-    lightTextDesc:false,
-    topLine: 'Ultimate Access',
-    headine:' Login to your account at any time ',
-    description:'We have you covered no atter where you are located.All you need is an internet connection and a phone or computer.',
-    buttonLabel:'Learn More',
-    imgStart: true,
-    img:require('../../images/svg-2.svg'),
-    alt:'Piggybank',
-    dark:false,
-    primary:false,
-    darkText:true
-};
-
-export const homeObjThree = {
-    id:'signup',
-    lightBg:true,
-    lightText: false,
-    lightTextDesc:false,
-    topLine: 'Join Our Team',
-    headine:'Creating an account is extremely easy',
-    description:"Get everything set up and ready in under 10 minutes.All you need to do is add your information and you're ready to global.",
-    buttonLabel:'Start Now',
-    imgStart: false,
-    img:require('../../images/svg-3.svg'),
-    alt:'Paper',
-    dark:false,
-    primary:false,
-    darkText:true
-};
-=======
 }
 export const homeObjTwo = {
     id:'discover',
@@ -93,4 +51,3 @@ export const homeObjThree = {
     primary:false,
     darkText:true
 }
->>>>>>> 116bf591b366444b4305e50ab44bbe745d7c1c1d

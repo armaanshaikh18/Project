@@ -1,16 +1,4 @@
 import React from 'react';
-<<<<<<< HEAD
-
-const SignInPage= () => {
-    return (
-        <div>
-         <h1>Sign in pages</h1>   
-        </div>
-    );
-};
-
-export default SignInPage;
-=======
 import Avatar from '@material-ui/core/Avatar'; 
 import Button from '@material-ui/core/Button';
 import CssBaseline from '@material-ui/core/CssBaseline';
@@ -151,4 +139,3 @@ const useStyles = makeStyles((theme) => ({
   );
 }
 export default SignInPage;
->>>>>>> 116bf591b366444b4305e50ab44bbe745d7c1c1d
