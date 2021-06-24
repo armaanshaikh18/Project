@@ -37,7 +37,7 @@ grid-template-areas:${({imgStart})=>(imgStart ? `'col2 col1'` :`'col1 col2'`)};
  export const Column1 = styled.div`
    margin-bottom:15px;
    padding:0 15px;
-   grid-area:col2;
+   grid-area:col1;
 
  `
  export const Column2 = styled.div`
@@ -46,7 +46,7 @@ grid-template-areas:${({imgStart})=>(imgStart ? `'col2 col1'` :`'col1 col2'`)};
    grid-area:col2;
 `
 export const TextWrapper = styled.div`
-   margin-bottom:548px;
+   margin-width:540px;
    padding-top:0;
    padding-bottom:60px;
 `

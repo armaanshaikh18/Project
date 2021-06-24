@@ -32,4 +32,8 @@ const Services = () => {
     );
 };
 
+<<<<<<< HEAD
 export default Services;
+=======
+export default Services;
+>>>>>>> 116bf591b366444b4305e50ab44bbe745d7c1c1d
